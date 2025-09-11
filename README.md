@@ -4,6 +4,18 @@
 
 [Please read the installation instructions below.](#installation-Instructions)
 
+## Project Status
+
+*Engine Simulator - Community Edition* is no longer actively maintained as it is being replaced by a newer and more capable version. To get updates on the state of this project, please join the community [Discord server](https://discord.com/invite/engine-sim-official) where I post updates actively. I also post video updates to my [YouTube channel](https://www.youtube.com/@AngeTheGreat).
+
+### Why is this project no longer open source?
+This repository is only for the distribution of the Engine Simulator application. You'll notice that there is no application code here. The version of Engine Simulator (v0.1.14a) being distributed here is almost identical to the open source version found [here](https://github.com/ange-yaghi/engine-sim), at least in terms of its core functionality. That version is 100% open-source and free to use for everyone. At the time that that codebase was released, I didn't think much of it and simply released the code for free so that others could learn from it. Since then, it has been used in a few game projects, usually with credit given (which I do appreciate). However, I was not very impressed with certain very high profile game studios using my work and pretending that it was actually their own creation. After that experience, I have been very hesitant about following an open source model for future projects. Going forward, I prefer to follow a model that does not rely on indirect income sources like advertisements, sponsorships, crowdfunding or corporate donations which is how many open-source projects are funded. I prefer the simpler model of creating an application and selling it for a reasonable price which I view as more honest.
+
+### What is the Patreon campaign for?
+The Patreon funds the development of the **new** Engine Simulator which has almost nothing in common with this project other than the concept. Do not join the Patreon if you intend to support the development of this project as it is longer actively maintained.
+
+While I've been able to remove my dependence on YouTube sponsorships, this project does still require Patreon donations to be financially feasible. Please understand that while I appreciate all contributions to the Patreon, the income generated is not nearly enough for me to justify releasing the entire codebase for free (which took me thousands of hours of work to create). Also, my productivity does not magically increase as Patreon donations increase. I'm only a single person with limited hours in the day. Please do not join the Patreon if you want to "speed up development", it unfortunately doesn't work that way. In fact, I really don't need any more Patreon supporters right now as I am in a comfortable position financially to continue development for at least the next 1-2 years. Only join if you want behind the scenes updates and to get a closer look at the development of the game. Otherwise, it's probably best to wait until the general release on Steam. Thank you for understanding.
+
 ## Introduction
 
 Welcome to *Engine Simulator - Community Edition*, the free version of *Engine Simulator* by [AngeTheGreat](https://www.youtube.com/@angethegreat). If you're a software developer, the original open-source *Engine Simulator* can be found [here](https://github.com/ange-yaghi/engine-sim).
